@@ -1,21 +1,21 @@
 ---
 title: "Lección 10 - Repaso y pasos siguientes"
-description: "Repasa el flujo de la aplicación, los dos hitos de PR, los ejercicios de lienzo y las prácticas de calidad reutilizables; después, explora otros recursos."
+description: "Repasa el flujo de la aplicación, los dos hitos de solicitudes de incorporación de cambios (PR), los ejercicios de lienzo y las prácticas de calidad reutilizables; después, explora otros recursos."
 authors:
   - geektrainer
 lastUpdated: 2026-09-29
 ---
 
-Has utilizado la aplicación GitHub Copilot durante un flujo continuo de Tailspin Toys. Has aprendido a:
+Has completado el flujo de trabajo de Tailspin Toys con la aplicación GitHub Copilot. Durante el taller:
 
-- conectar un repositorio, explorar el espacio de trabajo y la lista de trabajo pendiente inicial de la aplicación y probar un chat rápido.
-- iniciar una sesión específica de valoraciones por estrellas, revisar el resultado en un lienzo de navegador y combinar manualmente tu primera solicitud de incorporación de cambios (PR).
-- partir de la incidencia de filtrado, definir el enfoque en modo **Plan**, desarrollarlo en modo **Autopilot** y revisarlo en modo **Interactive**.
-- orientar al agente con instrucciones personalizadas y después personalizar la habilidad `quality-checks` existente y utilizarla para ejecutar pruebas unitarias, lint y comprobaciones de tipos.
-- probar el trabajo con el servidor MCP de Playwright en un navegador real.
-- crear y seleccionar un agente personalizado QA para evaluar requisitos, cobertura, resultados de scripts de la habilidad y pruebas de observación del navegador.
-- revisar el cambio completo de filtrado y autorizar **Agent Merge** para la segunda PR.
-- utilizar el lienzo Database Explorer existente y, después, crear y probar un lienzo de clasificación respaldado por el repositorio.
+- conectaste un repositorio, exploraste el espacio de trabajo y la lista de trabajo pendiente inicial de la aplicación y probaste un chat rápido.
+- iniciaste una sesión específica de valoraciones por estrellas, revisaste el resultado en un lienzo de navegador y combinaste manualmente tu primera solicitud de incorporación de cambios (PR).
+- partiste de la incidencia de filtrado, definiste el enfoque en modo **Plan**, desarrollaste la funcionalidad en modo **Autopilot** y revisaste el resultado en modo **Interactive**.
+- orientaste al agente con instrucciones personalizadas y después personalizaste la habilidad `quality-checks` existente y la utilizaste para ejecutar pruebas unitarias, lint y comprobaciones de tipos.
+- probaste el trabajo con el servidor Playwright Model Context Protocol (MCP) en un navegador real.
+- creaste y seleccionaste un agente personalizado de control de calidad (QA) para evaluar requisitos, cobertura, resultados de scripts de la habilidad y pruebas de observación del navegador.
+- revisaste el cambio completo de filtrado y autorizaste **Agent Merge** para la segunda PR.
+- utilizaste el lienzo Database Explorer existente y, después, creaste y probaste un lienzo de clasificación respaldado por el repositorio.
 
 ## Qué has entregado
 

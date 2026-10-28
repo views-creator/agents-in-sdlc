@@ -23,7 +23,7 @@ next: false
 
 网站集成需要模块 2 中已部署的智能体。代理和网站在本地运行期间，智能体将继续在 Foundry 中运行。
 
-1. 返回 Tailspin Toys 存储库的 `foundry-agent-cli` 分支，以及现有的 Copilot CLI 会话。
+1. 返回 Codespace，再打开 Tailspin Toys 存储库的 `foundry-agent-cli` 分支和现有的 Copilot CLI 会话。
 2. 确认 Backer Concierge 已部署，并且[构建并部署智能体][previous-lesson]中的远程调用已通过验证。如果已经移除了 Azure 资源，请先按照前面的模块重新创建，再继续。
 
 > [!IMPORTANT]
@@ -91,6 +91,6 @@ Tailspin Toys 采用完全预渲染方式。浏览器代码绝不能直接调用
 
 [overview]: ../
 [previous-lesson]: ../2-build-and-deploy/
-[review]: ../../9-review/
-[playwright-lesson]: ../../4-mcp/
+[review]: ../../10-review/
+[playwright-lesson]: ../../6-mcp-playwright/
 [cleanup]: ../#清理资源
